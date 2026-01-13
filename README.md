@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BROKER one-word domains still available to buy.
 
-This dataset contains 2 .BROKER one word domains with availability, attractiveness and demand scores.
+This dataset contains 517 .BROKER one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BROKER one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=broker-oneword-domains&utm_content=description.top) (2) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,21 +13,49 @@ If you want to search & filters the complete database of [.BROKER one word domai
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/broker-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.csv"><b>⬇️ CSV (2 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.json"><b>⬇️ JSON (2 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.csv"><b>⬇️ CSV (517 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.json"><b>⬇️ JSON (517 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=broker-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain       | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| ten.broker   | available | 88       | 24%    | 3      |           |         |         |
-| unity.broker | available | 70       | 32%    | 5      |           |         |         |
+| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| abandoned.broker  | available | 58       | 12%    | 9      |           |         |         |
+| abdominal.broker  | available | 82       | 3%     | 9      |           |         |         |
+| abhorrent.broker  | available | 54       | 2%     | 9      |           |         |         |
+| abiding.broker    | available | 106      | 7%     | 7      |           |         |         |
+| able.broker       | available | 80       | 32%    | 4      |           |         |         |
+| abnormal.broker   | available | 74       | 16%    | 8      |           |         |         |
+| above.broker      | available | 112      | 22%    | 5      |           |         |         |
+| abroad.broker     | available | 92       | 12%    | 6      |           |         |         |
+| absent.broker     | available | 102      | 11%    | 6      |           |         |         |
+| absolute.broker   | available | 80       | 29%    | 8      |           |         |         |
+| absorbed.broker   | available | 72       | 3%     | 8      |           |         |         |
+| absorbing.broker  | available | 70       | 4%     | 9      |           |         |         |
+| abstract.broker   | available | 108      | 32%    | 8      |           |         |         |
+| abundant.broker   | available | 80       | 20%    | 8      |           |         |         |
+| academic.broker   | available | 96       | 21%    | 8      |           |         |         |
+| acappella.broker  | available | 66       | 7%     | 10     |           |         |         |
+| acceptable.broker | available | 78       | 7%     | 10     |           |         |         |
+| accepted.broker   | available | 78       | 9%     | 8      |           |         |         |
+| accepting.broker  | available | 74       | 4%     | 9      |           |         |         |
+| accessible.broker | available | 78       | 23%    | 10     |           |         |         |
+| accessory.broker  | available | 84       | 9%     | 9      |           |         |         |
+| accredited.broker | available | 68       | 11%    | 10     |           |         |         |
+| accurate.broker   | available | 78       | 18%    | 8      |           |         |         |
+| accustomed.broker | available | 72       | 2%     | 10     |           |         |         |
+| achievable.broker | available | 74       | 5%     | 10     |           |         |         |
+| acting.broker     | available | 84       | 14%    | 6      |           |         |         |
+| actionable.broker | available | 88       | 13%    | 10     |           |         |         |
+| activated.broker  | available | 74       | 11%    | 9      |           |         |         |
+| activist.broker   | available | 88       | 13%    | 8      |           |         |         |
+| actual.broker     | available | 96       | 26%    | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/broker-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.csv"><b>⬇️ CSV (2 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.json"><b>⬇️ JSON (2 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.csv"><b>⬇️ CSV (517 domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/broker-oneword-domains/blob/main/broker.json"><b>⬇️ JSON (517 domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=broker-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (2)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -60,9 +88,9 @@ If you want to search & filters the complete database of [.BROKER one word domai
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,940       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,068       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 75,213       | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 31,281       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,417       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,575,225    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
@@ -143,7 +171,7 @@ If you want to search & filters the complete database of [.BROKER one word domai
 | .CENTER        | 8,208        | [Github](https://github.com/UniqueDomains/center-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=center-oneword-domains&utm_content=table.link)        |
 | .CEO           | 9,226        | [Github](https://github.com/UniqueDomains/ceo-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ceo-oneword-domains&utm_content=table.link)           |
 | .CFD           | 9,549        | [Github](https://github.com/UniqueDomains/cfd-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cfd-oneword-domains&utm_content=table.link)           |
-| .CHANNEL       | 0            | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
+| .CHANNEL       | 240          | [Github](https://github.com/UniqueDomains/channel-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=channel-oneword-domains&utm_content=table.link)       |
 | .CHARITY       | 9,479        | [Github](https://github.com/UniqueDomains/charity-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=charity-oneword-domains&utm_content=table.link)       |
 | .CHAT          | 7,344        | [Github](https://github.com/UniqueDomains/chat-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=chat-oneword-domains&utm_content=table.link)          |
 | .CHEAP         | 9,362        | [Github](https://github.com/UniqueDomains/cheap-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cheap-oneword-domains&utm_content=table.link)         |
@@ -219,7 +247,7 @@ If you want to search & filters the complete database of [.BROKER one word domai
 | .DOMAINS       | 8,939        | [Github](https://github.com/UniqueDomains/domains-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=domains-oneword-domains&utm_content=table.link)       |
 | .DOWNLOAD      | 9,698        | [Github](https://github.com/UniqueDomains/download-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=download-oneword-domains&utm_content=table.link)      |
 | .EARTH         | 6,419        | [Github](https://github.com/UniqueDomains/earth-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=earth-oneword-domains&utm_content=table.link)         |
-| .ECO           | 0            | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
+| .ECO           | 378          | [Github](https://github.com/UniqueDomains/eco-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=eco-oneword-domains&utm_content=table.link)           |
 | .EDUCATION     | 8,285        | [Github](https://github.com/UniqueDomains/education-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=education-oneword-domains&utm_content=table.link)     |
 | .EMAIL         | 6,638        | [Github](https://github.com/UniqueDomains/email-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=email-oneword-domains&utm_content=table.link)         |
 | .ENERGY        | 8,363        | [Github](https://github.com/UniqueDomains/energy-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=energy-oneword-domains&utm_content=table.link)        |
@@ -338,7 +366,7 @@ If you want to search & filters the complete database of [.BROKER one word domai
 | .KIDS          | 9,513        | [Github](https://github.com/UniqueDomains/kids-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kids-oneword-domains&utm_content=table.link)          |
 | .KIM           | 9,314        | [Github](https://github.com/UniqueDomains/kim-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kim-oneword-domains&utm_content=table.link)           |
 | .KITCHEN       | 9,140        | [Github](https://github.com/UniqueDomains/kitchen-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kitchen-oneword-domains&utm_content=table.link)       |
-| .KIWI          | 0            | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
+| .KIWI          | 399          | [Github](https://github.com/UniqueDomains/kiwi-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=kiwi-oneword-domains&utm_content=table.link)          |
 | .LA            | 7,906        | [Github](https://github.com/UniqueDomains/la-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=la-oneword-domains&utm_content=table.link)            |
 | .LAND          | 8,107        | [Github](https://github.com/UniqueDomains/land-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=land-oneword-domains&utm_content=table.link)          |
 | .LAT           | 8,298        | [Github](https://github.com/UniqueDomains/lat-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=table.link)           |
@@ -588,7 +616,7 @@ If you want to search & filters the complete database of [.BROKER one word domai
 | .WTF           | 7,715        | [Github](https://github.com/UniqueDomains/wtf-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=wtf-oneword-domains&utm_content=table.link)           |
 | .XN--3DS443G   | 0            | [Github](https://github.com/UniqueDomains/xn--3ds443g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--3ds443g-oneword-domains&utm_content=table.link)   |
 | .XN--6FRZ82G   | 0            | [Github](https://github.com/UniqueDomains/xn--6frz82g-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xn--6frz82g-oneword-domains&utm_content=table.link)   |
-| .XXX           | 0            | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
+| .XXX           | 347          | [Github](https://github.com/UniqueDomains/xxx-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xxx-oneword-domains&utm_content=table.link)           |
 | .XYZ           | 55,913       | [Github](https://github.com/UniqueDomains/xyz-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=xyz-oneword-domains&utm_content=table.link)           |
 | .YACHTS        | 9,447        | [Github](https://github.com/UniqueDomains/yachts-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yachts-oneword-domains&utm_content=table.link)        |
 | .YOGA          | 9,181        | [Github](https://github.com/UniqueDomains/yoga-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=yoga-oneword-domains&utm_content=table.link)          |
