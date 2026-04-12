@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .broker one-word domains from Uniq
 
 **Public extract:** 4,805 rows · **Live catalog:** 4,805 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/broker`  
 **Best for:** founders, investors, studios
 
@@ -75,15 +75,15 @@ print(df.head())
 | easy.broker       | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com                       |
 | ada.broker        | available | $19.99    | —             | 62             | 53     | 3      | name.com                       |
 | business.broker   | resell    | —         | —             | 90             | 53     | 8      | 1API GmbH                      |
-| industry.broker   | premium   | $6,250    | —             | 72             | 64     | 8      | name.com                       |
+| power.broker      | premium   | $3,125    | —             | 82             | 62     | 5      | name.com                       |
 | jesus.broker      | available | $19.99    | —             | 88             | 52     | 5      | name.com                       |
 | buy.broker        | resell    | —         | —             | 84             | 53     | 3      | Spaceship, Inc.                |
-| power.broker      | premium   | $3,125    | —             | 82             | 62     | 5      | name.com                       |
+| industry.broker   | premium   | $6,250    | —             | 72             | 61     | 8      | name.com                       |
 | true.broker       | available | $19.99    | $32.99        | 86             | 52     | 4      | name.com                       |
-| info.broker       | resell    | —         | —             | 80             | 53     | 4      | Porkbun LLC                    |
+| alpha.broker      | resell    | —         | —             | 90             | 52     | 5      | NameCheap, Inc.                |
 | enterprise.broker | premium   | $6,250    | —             | 72             | 61     | 10     | name.com                       |
 | daniel.broker     | available | $19.99    | —             | 76             | 51     | 6      | name.com                       |
-| alpha.broker      | resell    | —         | —             | 90             | 52     | 5      | NameCheap, Inc.                |
+| moon.broker       | resell    | —         | —             | 70             | 52     | 4      | Porkbun LLC                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
