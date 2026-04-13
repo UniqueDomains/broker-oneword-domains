@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .broker one-word domains from Uniq
 
 **Public extract:** 4,805 rows · **Live catalog:** 4,805 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/broker`  
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | sam.broker        | available | $19.99    | —             | 80             | 57     | 3      | name.com                       |
 | cloud.broker      | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc.                |
 | mini.broker       | premium   | $1,250    | —             | 70             | 70     | 4      | name.com                       |
-| limitless.broker  | available | $19.99    | —             | 80             | 56     | 9      | name.com                       |
+| limitless.broker  | available | $19.99    | —             | 80             | 55     | 9      | name.com                       |
 | wallet.broker     | resell    | —         | —             | 74             | 55     | 6      | Porkbun LLC                    |
 | easy.broker       | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com                       |
 | ada.broker        | available | $19.99    | —             | 62             | 53     | 3      | name.com                       |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
