@@ -1,22 +1,22 @@
-# Available .BROKER One-Word Domains (4,805)
+# Available .BROKER One-Word Domains (9,791)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C806%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C805%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C791%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .broker one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .broker one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,791 domains** on the canonical page below.
 
-**Public extract:** 4,806 rows · **Live catalog:** 4,805 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,791 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/broker`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .BROKER one-word domai
 
 ### Files
 
-- `broker.csv` — public CSV extract (4,806 rows)
-- `broker.json` — public JSON extract (4,806 rows)
+- `broker.csv` — public CSV extract (1,000 rows)
+- `broker.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| matt.broker       | available | $19.99    | —             | 72             | 71     | 4      | name.com                       |
-| pay.broker        | resell    | —         | —             | 84             | 60     | 3      | Soluciones Corporativas IP, SL |
-| prime.broker      | premium   | $6,250    | —             | 76             | 82     | 5      | name.com                       |
-| sam.broker        | available | $19.99    | —             | 80             | 57     | 3      | name.com                       |
-| cloud.broker      | resell    | —         | —             | 70             | 59     | 5      | Spaceship, Inc.                |
-| mini.broker       | premium   | $1,250    | —             | 70             | 70     | 4      | name.com                       |
-| limitless.broker  | available | $19.99    | —             | 80             | 55     | 9      | name.com                       |
-| wallet.broker     | resell    | —         | —             | 74             | 55     | 6      | Porkbun LLC                    |
-| easy.broker       | premium   | $1,250    | $1,250        | 128            | 68     | 4      | name.com                       |
-| ada.broker        | available | $19.99    | —             | 62             | 53     | 3      | name.com                       |
-| business.broker   | resell    | —         | —             | 90             | 53     | 8      | 1API GmbH                      |
-| power.broker      | premium   | $3,125    | —             | 82             | 62     | 5      | name.com                       |
-| jesus.broker      | available | $19.99    | —             | 88             | 52     | 5      | name.com                       |
-| buy.broker        | resell    | —         | —             | 84             | 53     | 3      | Spaceship, Inc.                |
-| industry.broker   | premium   | $6,250    | —             | 72             | 61     | 8      | name.com                       |
-| true.broker       | available | $19.99    | $32.99        | 86             | 52     | 4      | name.com                       |
-| alpha.broker      | resell    | —         | —             | 90             | 52     | 5      | NameCheap, Inc.                |
-| enterprise.broker | premium   | $6,250    | —             | 72             | 61     | 10     | name.com                       |
-| daniel.broker     | available | $19.99    | —             | 76             | 51     | 6      | name.com                       |
-| moon.broker       | resell    | —         | —             | 70             | 52     | 4      | Porkbun LLC                    |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Keys.broker           | available | $47.98    | —             | 66             | 46     | 4      | namecheap |
+| stockmarket.broker    | premium   | $6,250    | —             | 80             | 30     | 12     | name.com  |
+| its.broker            | available | $19.99    | —             | 78             | 43     | 3      | name.com  |
+| shares.broker         | premium   | $6,250    | —             | 58             | 18     | 6      | name.com  |
+| RGB.broker            | available | $47.98    | —             | 76             | 39     | 3      | namecheap |
+| AOL.broker            | premium   | —         | —             | 76             | 17     | 3      | —         |
+| Flowers.broker        | available | $47.98    | —             | 72             | 39     | 7      | namecheap |
+| AnnaKournikova.broker | premium   | —         | —             | 72             | 1      | 15     | —         |
+| justin.broker         | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
+| Greg.broker           | available | $47.98    | —             | 66             | 35     | 4      | namecheap |
+| teams.broker          | available | $19.99    | —             | 62             | 32     | 5      | name.com  |
+| partners.broker       | available | $19.99    | —             | 61             | 32     | 8      | name.com  |
+| William.broker        | available | $47.98    | —             | 74             | 31     | 7      | namecheap |
+| solutions.broker      | available | $19.99    | —             | 56             | 31     | 9      | name.com  |
+| hashtag.broker        | available | $19.99    | —             | 82             | 30     | 7      | name.com  |
+| quotes.broker         | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
+| movies.broker         | available | $19.99    | —             | 80             | 28     | 6      | name.com  |
+| foto.broker           | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
+| dogs.broker           | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
+| bricks.broker         | available | $19.99    | —             | 56             | 28     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,806-row public sample | 4,805 live domains                               |
+| 1,000-row public sample | 9,791 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
