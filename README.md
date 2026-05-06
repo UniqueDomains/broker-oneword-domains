@@ -1,10 +1,10 @@
-# Available .BROKER One-Word Domains (9,977)
+# Available .BROKER One-Word Domains (9,981)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C977%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C981%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .broker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,977 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,981 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,977 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,981 domains · **Median ask:** $70.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/broker`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Keys.broker           | available | $47.98    | —             | 66             | 46     | 4      | namecheap |
-| stockmarket.broker    | premium   | $6,250    | —             | 80             | 30     | 12     | name.com  |
-| its.broker            | available | $19.99    | —             | 78             | 43     | 3      | name.com  |
-| shares.broker         | premium   | $6,250    | —             | 58             | 18     | 6      | name.com  |
-| RGB.broker            | available | $47.98    | —             | 76             | 39     | 3      | namecheap |
-| AOL.broker            | premium   | —         | —             | 76             | 17     | 3      | —         |
-| Flowers.broker        | available | $47.98    | —             | 72             | 39     | 7      | namecheap |
-| AnnaKournikova.broker | premium   | —         | —             | 72             | 1      | 15     | —         |
-| justin.broker         | available | $19.99    | —             | 58             | 38     | 7      | name.com  |
-| Greg.broker           | available | $47.98    | —             | 66             | 35     | 4      | namecheap |
-| teams.broker          | available | $19.99    | —             | 62             | 32     | 5      | name.com  |
-| partners.broker       | available | $19.99    | —             | 61             | 32     | 8      | name.com  |
-| William.broker        | available | $47.98    | —             | 74             | 31     | 7      | namecheap |
-| solutions.broker      | available | $19.99    | —             | 56             | 31     | 9      | name.com  |
-| hashtag.broker        | available | $19.99    | —             | 82             | 30     | 7      | name.com  |
-| quotes.broker         | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
-| movies.broker         | available | $19.99    | —             | 80             | 28     | 6      | name.com  |
-| foto.broker           | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
-| dogs.broker           | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
-| bricks.broker         | available | $19.99    | —             | 56             | 28     | 6      | name.com  |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| movies.broker         | available | $19.99    | —             | 80             | 28     | 6      | name.com    |
+| carrie.broker         | available | $19.99    | —             | 82             | 11     | 6      | name.com    |
+| getup.broker          | available | $19.99    | —             | 82             | 14     | 6      | name.com    |
+| lyrics.broker         | available | $19.99    | —             | 90             | 21     | 6      | name.com    |
+| Keys.broker           | available | $47.98    | —             | 66             | 46     | 4      | namecheap   |
+| david.broker          | resell    | —         | —             | 74             | 47     | 5      | Dynadot Inc |
+| stockmarket.broker    | premium   | $6,250    | —             | 80             | 30     | 12     | name.com    |
+| its.broker            | available | $19.99    | —             | 78             | 43     | 3      | name.com    |
+| budget.broker         | resell    | —         | —             | 72             | 29     | 6      | Dynadot Inc |
+| shares.broker         | premium   | $6,250    | —             | 58             | 18     | 6      | name.com    |
+| RGB.broker            | available | $47.98    | —             | 76             | 39     | 3      | namecheap   |
+| AOL.broker            | premium   | —         | —             | 76             | 17     | 3      | —           |
+| Flowers.broker        | available | $47.98    | —             | 72             | 39     | 7      | namecheap   |
+| AnnaKournikova.broker | premium   | —         | —             | 72             | 1      | 15     | —           |
+| justin.broker         | available | $19.99    | —             | 58             | 38     | 7      | name.com    |
+| Greg.broker           | available | $47.98    | —             | 66             | 35     | 4      | namecheap   |
+| teams.broker          | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
+| partners.broker       | available | $19.99    | —             | 61             | 32     | 8      | name.com    |
+| William.broker        | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
+| solutions.broker      | available | $19.99    | —             | 56             | 31     | 9      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 9,977 live domains                               |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 9,981 live domains                         |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word .broker domains. The naming patterns range from first names like Liam.broker, Cindy.broker, Laura.broker, and girls.broker to generic terms such as feet.broker, WiFi.broker, LGBTQ.broker, and emoji.broker. That makes the selection broad, but also uneven in commercial fit. For investors, the main question is whether a term has credible buyer depth inside broker-led categories. For founders, the decision is simpler: choose a name that is easy to say, easy to remember, and clearly compatible with a brokerage, intermediary, or advisory positioning. Median ask is 70.28, which keeps price comparison straightforward across a large pool.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .broker extension
+- One-word names span people, terms, and niche concepts
+- Median ask across this selection is 70.28
+- Favor clear brokerage relevance over novelty
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -152,6 +152,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 074bd90b-9cb8-4371-af31-8aca8398337b,putterabout.broker,available,19.99,,68,1,12,name.com,,
 0753f6fa-ed27-403b-bbf8-3a4207d6b82e,longterm.broker,available,19.99,,72,10,9,name.com,,
 075e742b-7942-405d-83f9-395811a81e53,highpolitics.broker,available,19.99,,62,0,13,name.com,,
+07667d00-3d84-4094-a7a1-cdac99dd9804,david.broker,resell,,,74,47,5,Dynadot Inc,06/08/2025 00:38,06/08/2026 00:38
 077e42b6-02dc-4456-bf08-b553775c4748,childmurderer.broker,available,19.99,,30,1,14,name.com,,
 078382e5-e471-44b5-8689-1a7fe273a327,mosquitoes.broker,available,19.99,,42,4,10,name.com,,
 0788328d-079b-442c-99c8-6d35e5f29306,Ibegyourpardon.broker,available,47.98,,50,8,17,namecheap,,
@@ -664,6 +665,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2018d4a0-f48d-42f5-88b1-4462297192e3,indanger.broker,available,19.99,,60,1,9,name.com,,
 20197834-58a1-4610-9c69-0f4ce66182c5,taxswap.broker,available,19.99,,60,1,8,name.com,,
 2034cca5-e879-4eb3-9798-5d8d9baa3b39,whitevinegar.broker,available,19.99,,66,12,13,name.com,,
+203aaf20-8935-4c67-864f-dbf4792dbbcf,budget.broker,resell,,,72,29,6,Dynadot Inc,06/08/2025 13:56,06/08/2026 13:56
 2042196d-3963-4baf-98b0-76e1069525d6,redapple.broker,available,19.99,,80,11,9,name.com,,
 2042753f-722d-4807-9610-d187581cfe47,RedNoseDay.broker,available,47.98,,61,5,12,namecheap,,
 20483db7-630a-4c51-a438-f966c439ad82,officestaff.broker,available,19.99,,57,2,12,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30b8ec77-d620-40f6-8edd-4ee6bcf171ed,therewego.broker,available,19.99,,56,2,11,name.com,,
 30c9fc3b-722d-4e69-afa3-2b567a81341d,intheissue.broker,available,19.99,,50,1,12,name.com,,
 30d395f4-6e1c-4a87-9236-e8d4a5e595dc,FrenchQuarter.broker,available,47.98,,48,5,14,namecheap,,
-30dd96db-de9a-4f31-b769-dc7ec1474fec,backtalk.broker,available,19.99,,68,5,9,name.com,,
-30e7dcfb-b52a-4e87-acad-bf121db809be,alcoholpoisoning.broker,available,19.99,,48,1,17,name.com,,
