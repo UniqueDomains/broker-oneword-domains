@@ -131,6 +131,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 061ace49-1677-4c30-a2d5-33ad7a9138c0,ole.broker,available,19.99,,74,26,3,name.com,,
 062d6280-a656-4367-95dd-b29e6cd184c6,teams.broker,available,19.99,,62,32,5,name.com,,
 063e0cc3-5090-4b8e-8b7b-e3e3d4bd5b1d,hangloose.broker,available,19.99,,82,6,10,name.com,,
+064e09d8-cc6c-4a4e-add2-2602053013ec,hey.broker,resell,,,68,45,3,Dynadot Inc,05/08/2025 21:01,05/08/2026 21:01
 06584fed-09e2-4ceb-b8cb-ee53fbba0e4c,inprivate.broker,available,19.99,,70,3,10,name.com,,
 066482ec-529f-4e4f-9258-d8c9154aec3f,sockyarn.broker,available,19.99,,64,1,9,name.com,,
 0666145f-055d-4475-ba1d-ef0006d53bda,lunchmoney.broker,available,19.99,,78,7,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30b55bba-9052-497f-8189-de727716b691,footballpools.broker,available,19.99,,46,2,14,name.com,,
 30b8ec77-d620-40f6-8edd-4ee6bcf171ed,therewego.broker,available,19.99,,56,2,11,name.com,,
 30c9fc3b-722d-4e69-afa3-2b567a81341d,intheissue.broker,available,19.99,,50,1,12,name.com,,
-30d395f4-6e1c-4a87-9236-e8d4a5e595dc,FrenchQuarter.broker,available,47.98,,48,5,14,namecheap,,

@@ -72,9 +72,10 @@ print(df.head())
 | david.broker          | resell    | —         | —             | 74             | 47     | 5      | Dynadot Inc |
 | stockmarket.broker    | premium   | $6,250    | —             | 80             | 30     | 12     | name.com    |
 | its.broker            | available | $19.99    | —             | 78             | 43     | 3      | name.com    |
-| budget.broker         | resell    | —         | —             | 72             | 29     | 6      | Dynadot Inc |
+| hey.broker            | resell    | —         | —             | 68             | 45     | 3      | Dynadot Inc |
 | shares.broker         | premium   | $6,250    | —             | 58             | 18     | 6      | name.com    |
 | RGB.broker            | available | $47.98    | —             | 76             | 39     | 3      | namecheap   |
+| budget.broker         | resell    | —         | —             | 72             | 29     | 6      | Dynadot Inc |
 | AOL.broker            | premium   | —         | —             | 76             | 17     | 3      | —           |
 | Flowers.broker        | available | $47.98    | —             | 72             | 39     | 7      | namecheap   |
 | AnnaKournikova.broker | premium   | —         | —             | 72             | 1      | 15     | —           |
@@ -83,7 +84,6 @@ print(df.head())
 | teams.broker          | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | partners.broker       | available | $19.99    | —             | 61             | 32     | 8      | name.com    |
 | William.broker        | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
-| solutions.broker      | available | $19.99    | —             | 56             | 31     | 9      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
