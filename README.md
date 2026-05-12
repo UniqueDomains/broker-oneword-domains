@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | movies.broker         | available | $19.99    | —             | 80             | 28     | 6      | name.com    |
-| carrie.broker         | available | $19.99    | —             | 82             | 11     | 6      | name.com    |
+| carrie.broker         | available | $19.99    | —             | 82             | 10     | 6      | name.com    |
 | getup.broker          | available | $19.99    | —             | 82             | 14     | 6      | name.com    |
 | lyrics.broker         | available | $19.99    | —             | 90             | 21     | 6      | name.com    |
 | Keys.broker           | available | $47.98    | —             | 66             | 46     | 4      | namecheap   |
@@ -81,9 +81,9 @@ print(df.head())
 | AnnaKournikova.broker | premium   | —         | —             | 72             | 1      | 15     | —           |
 | justin.broker         | available | $19.99    | —             | 58             | 38     | 7      | name.com    |
 | Greg.broker           | available | $47.98    | —             | 66             | 35     | 4      | namecheap   |
+| hashtag.broker        | available | $19.99    | —             | 82             | 32     | 7      | name.com    |
 | teams.broker          | available | $19.99    | —             | 62             | 32     | 5      | name.com    |
 | partners.broker       | available | $19.99    | —             | 61             | 32     | 8      | name.com    |
-| William.broker        | available | $47.98    | —             | 74             | 31     | 7      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
