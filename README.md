@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .broker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,854 domains · **Median ask:** $41.34 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/broker`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| damn.broker      | available | $19.99    | $32.99        | high           | low    | 4      | name.com                       |
 | ada.broker       | available | $19.99    | —             | medium         | medium | 3      | name.com                       |
 | one.broker       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                |
 | lp.broker        | premium   | $1,250    | —             | medium         | low    | 3      | name.com                       |
@@ -84,6 +83,7 @@ print(df.head())
 | nashville.broker | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                    |
 | blink.broker     | premium   | $3,125    | —             | high           | medium | 5      | name.com                       |
 | awe.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
+| house.broker     | premium   | $6,250    | —             | high           | medium | 5      | name.com                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
