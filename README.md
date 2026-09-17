@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .broker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,931 domains · **Median ask:** $37.69 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/broker`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| damn.broker     | available | $19.99    | $32.99        | high           | low    | 4      | name.com                       |
-| one.broker      | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                |
-| wizard.broker   | available | $19.99    | $32.99        | high           | medium | 6      | name.com                       |
-| negative.broker | available | $19.99    | $32.99        | high           | low    | 8      | name.com                       |
-| above.broker    | available | $19.99    | $32.99        | high           | low    | 5      | name.com                       |
-| easter.broker   | available | $19.99    | $32.99        | high           | low    | 6      | name.com                       |
-| ada.broker      | available | $19.99    | —             | medium         | medium | 3      | name.com                       |
-| lp.broker       | premium   | $1,250    | —             | medium         | low    | 3      | name.com                       |
-| ale.broker      | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
-| zen.broker      | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                   |
-| mad.broker      | premium   | $1,250    | —             | medium         | medium | 3      | name.com                       |
-| Ann.broker      | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| great.broker    | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
-| org.broker      | premium   | $3,125    | —             | medium         | medium | 3      | name.com                       |
-| any.broker      | available | $19.99    | —             | high           | medium | 3      | name.com                       |
-| design.broker   | resell    | —         | —             | medium         | medium | 6      | Soluciones Corporativas IP, SL |
-| fair.broker     | premium   | $3,125    | —             | high           | low    | 4      | name.com                       |
-| ate.broker      | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| anything.broker | resell    | —         | —             | medium         | low    | 8      | NameCheap, Inc.                |
-| land.broker     | premium   | $6,250    | —             | medium         | low    | 4      | name.com                       |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
+| ada.broker       | available | $19.99    | —             | medium         | medium | 3      | name.com                       |
+| one.broker       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                |
+| lp.broker        | premium   | $1,250    | —             | medium         | low    | 3      | name.com                       |
+| ale.broker       | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
+| zen.broker       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                   |
+| mad.broker       | premium   | $1,250    | —             | medium         | medium | 3      | name.com                       |
+| Ann.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
+| great.broker     | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
+| org.broker       | premium   | $3,125    | —             | medium         | medium | 3      | name.com                       |
+| any.broker       | available | $19.99    | —             | high           | medium | 3      | name.com                       |
+| design.broker    | resell    | —         | —             | medium         | medium | 6      | Soluciones Corporativas IP, SL |
+| fair.broker      | premium   | $3,125    | —             | high           | low    | 4      | name.com                       |
+| ate.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
+| anything.broker  | resell    | —         | —             | medium         | low    | 8      | NameCheap, Inc.                |
+| land.broker      | premium   | $6,250    | —             | medium         | low    | 4      | name.com                       |
+| atp.broker       | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
+| nashville.broker | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                    |
+| blink.broker     | premium   | $3,125    | —             | high           | medium | 5      | name.com                       |
+| awe.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
+| house.broker     | premium   | $6,250    | —             | high           | medium | 5      | name.com                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
