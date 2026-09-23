@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .broker one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,076 domains · **Median ask:** $36.05 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/broker`
 **Best for:** founders, investors, studios
 
@@ -65,22 +65,22 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
 | ada.broker       | available | $19.99    | —             | medium         | medium | 3      | name.com                       |
-| one.broker       | resell    | —         | —             | high           | medium | 3      | NameCheap, Inc.                |
+| one.broker       | resell    | —         | —             | medium         | low    | 3      | NameCheap, Inc.                |
 | lp.broker        | premium   | $1,250    | —             | medium         | low    | 3      | name.com                       |
 | ale.broker       | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
 | design.broker    | resell    | —         | —             | medium         | low    | 6      | Soluciones Corporativas IP, SL |
-| mad.broker       | premium   | $1,250    | —             | medium         | medium | 3      | name.com                       |
+| mad.broker       | premium   | $1,250    | $1,250        | low            | low    | 3      | name.com                       |
 | ann.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
 | simple.broker    | resell    | —         | —             | medium         | low    | 6      | Sav.com, LLC                   |
 | org.broker       | premium   | $3,125    | —             | medium         | medium | 3      | name.com                       |
-| any.broker       | available | $19.99    | —             | high           | medium | 3      | name.com                       |
+| any.broker       | available | $14.99    | $32.99        | medium         | low    | 3      | name.com                       |
 | anything.broker  | resell    | —         | —             | medium         | low    | 8      | NameCheap, Inc.                |
-| fair.broker      | premium   | $3,125    | —             | high           | low    | 4      | name.com                       |
+| fair.broker      | premium   | $3,250    | $3,250        | medium         | low    | 4      | namecheap                      |
 | ate.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
 | nashville.broker | resell    | —         | —             | high           | low    | 9      | Dynadot Inc                    |
 | land.broker      | premium   | $6,250    | —             | medium         | low    | 4      | name.com                       |
 | atp.broker       | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
-| blink.broker     | premium   | $3,125    | —             | high           | medium | 5      | name.com                       |
+| blink.broker     | premium   | $3,250    | $3,250        | medium         | low    | 5      | namecheap                      |
 | awe.broker       | available | $19.99    | —             | high           | low    | 3      | name.com                       |
 | house.broker     | premium   | $6,250    | —             | high           | medium | 5      | name.com                       |
 | bce.broker       | available | $19.99    | —             | medium         | low    | 3      | name.com                       |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
