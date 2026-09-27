@@ -1,10 +1,10 @@
-# Available .BROKER One-Word Domains (32,382)
+# Available .BROKER One-Word Domains (22,953)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C382%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C953%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .broker one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,382 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,953 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,382 domains · **Median ask:** $33.79 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,953 domains · **Median ask:** $42.95 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/broker`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                      |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------ |
-| act.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| ask.broker    | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 35              |
-| aaa.broker    | premium   | $1,250    | —             | high           | medium | 3      | name.com                       |
-| ada.broker    | available | $19.99    | —             | high           | medium | 3      | name.com                       |
-| pay.broker    | resell    | —         | —             | high           | medium | 3      | Soluciones Corporativas IP, SL |
-| lp.broker     | premium   | $1,250    | —             | high           | low    | 3      | name.com                       |
-| add.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| moon.broker   | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                    |
-| org.broker    | premium   | $3,125    | —             | high           | medium | 3      | name.com                       |
-| ale.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| ohio.broker   | resell    | —         | —             | high           | low    | 4      | Epik LLC                       |
-| city.broker   | premium   | $1,250    | —             | high           | medium | 4      | name.com                       |
-| ann.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| chain.broker  | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.                |
-| debt.broker   | premium   | $6,250    | —             | high           | low    | 4      | name.com                       |
-| are.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| boston.broker | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                    |
-| land.broker   | premium   | $6,250    | —             | high           | low    | 4      | name.com                       |
-| ate.broker    | available | $19.99    | —             | high           | low    | 3      | name.com                       |
-| master.broker | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| axe.broker      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| game.broker     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc. |
+| gin.broker      | premium   | $6,500    | $6,500        | high           | low    | 3      | namecheap       |
+| gus.broker      | available | $11.98    | $47.98        | high           | low    | 3      | namecheap       |
+| ohio.broker     | resell    | —         | —             | high           | low    | 4      | Epik LLC        |
+| tip.broker      | premium   | $1,300    | $1,300        | high           | low    | 3      | namecheap       |
+| ivy.broker      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| triad.broker    | resell    | —         | —             | high           | low    | 5      | Epik LLC        |
+| arts.broker     | premium   | $6,500    | $6,500        | high           | low    | 4      | namecheap       |
+| kat.broker      | available | $11.98    | $47.98        | high           | low    | 3      | namecheap       |
+| realty.broker   | resell    | —         | —             | high           | low    | 6      | Epik LLC        |
+| cocoa.broker    | premium   | $6,250    | —             | high           | low    | 5      | name.com        |
+| les.broker      | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| school.broker   | resell    | —         | —             | high           | medium | 6      | Dynadot Inc     |
+| market.broker   | premium   | $6,500    | $6,500        | high           | medium | 6      | namecheap       |
+| low.broker      | available | $11.98    | $47.98        | high           | low    | 3      | namecheap       |
+| tickets.broker  | resell    | —         | —             | high           | low    | 7      | Spaceship, Inc. |
+| aluminum.broker | premium   | $6,500    | $6,500        | high           | low    | 8      | namecheap       |
+| lxv.broker      | available | $11.98    | $47.98        | medium         | low    | 3      | namecheap       |
+| diamonds.broker | premium   | $6,500    | $6,500        | high           | low    | 8      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,382 live domains                        |
+| 1,000-row public sample | 22,953 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BROKER One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
