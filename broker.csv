@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 4a516a65-a79a-4587-84cb-126a6fd0ac14,eviscerate.broker,available,11.98,47.98,medium,low,10,namecheap,,,17/08/2026 15:10
 dd7b1364-d840-407c-a6d5-3f2c987ebfdd,stockholm.broker,available,19.99,,high,low,9,name.com,,,
+d5fb324b-c961-4bd2-95b7-ceeb85154b6d,turf.broker,available,8.24,30.18,high,low,4,dynadot,,,28/09/2026 05:54
 edcd6627-fdce-402b-9871-c1a74258339b,anglophile.broker,available,11.98,47.98,medium,low,10,namecheap,,,19/09/2026 06:52
 c3d831e7-9787-4967-9f19-99d4ca9fd868,brings.broker,available,11.98,47.98,medium,low,6,namecheap,,,18/09/2026 15:15
 5760abdb-208d-481f-b70a-6bf4a827fedb,ounce.broker,available,19.99,,high,low,5,name.com,,,
@@ -51,6 +52,7 @@ ef0b02fe-0eed-45c3-a2f0-d5a7e4f0d661,pile.broker,available,11.98,47.98,high,low,
 5e677b42-8b9b-4327-83ee-5dfa3ee51d1a,carven.broker,available,11.98,47.98,medium,low,6,namecheap,,,11/08/2026 19:59
 1de3aff6-c87b-4fd0-ad03-126852b34cb4,roomy.broker,available,10.55,29.18,high,low,5,spaceship,,,27/09/2026 16:14
 5dee6c2e-fddb-472c-a796-a7da4e5eb21f,ordering.broker,available,11.98,47.98,high,low,8,namecheap,,,27/09/2026 15:05
+a83a5a9f-ef51-4d52-bb08-df4977c87aa9,randall.broker,available,10.55,29.18,high,low,7,spaceship,,,28/09/2026 04:02
 215be1df-4cd2-47e0-b63c-281df409e018,spiceberry.broker,available,11.98,47.98,medium,low,10,namecheap,,,20/09/2026 03:12
 a83ccaca-1b32-4a5b-9b5f-6572ef870bd5,differences.broker,available,11.98,47.98,medium,low,11,namecheap,,,17/09/2026 14:00
 217ac939-5c09-4c4c-a622-0765dd64c4ca,prolix.broker,available,11.98,47.98,medium,low,6,namecheap,,,09/09/2026 03:04
@@ -75,7 +77,7 @@ fc92b46c-18b1-4a01-b883-93111f2f386f,actinium.broker,available,11.98,47.98,mediu
 fd01f062-c218-41d0-a881-e5cef010d29a,zanzibar.broker,available,19.99,,high,low,8,name.com,,,
 e9f4d401-1e29-4637-b429-330cf5f81966,constant.broker,available,11.98,47.98,high,low,8,namecheap,,,11/08/2026 23:02
 86290004-fe53-4311-b203-9012f9ff034e,inpatient.broker,available,11.98,47.98,medium,low,10,namecheap,,,20/09/2026 21:46
-545fb6f4-4257-40dc-adf8-b343c5d7da78,analysis.broker,available,11.98,47.98,high,low,8,namecheap,,,23/09/2026 08:36
+545fb6f4-4257-40dc-adf8-b343c5d7da78,analysis.broker,available,10.55,29.18,high,low,8,spaceship,,,28/09/2026 03:24
 10a2908f-aa84-4037-a2a3-5c5537cba00d,robert.broker,available,14.99,32.99,high,low,6,name.com,,,25/09/2026 07:17
 3fa185a1-f32f-4353-9581-d7a47872b64a,presentation.broker,available,19.99,,high,low,12,name.com,,,
 542ff4ca-9be0-4221-aefd-45a5cd366da4,segmental.broker,available,11.98,47.98,medium,low,9,namecheap,,,24/08/2026 21:41
@@ -98,7 +100,7 @@ deb684cc-ba7f-4a0a-a517-9faa6c0a5dc5,retained.broker,available,28.2,28.2,high,lo
 99a76532-6c5d-4281-a392-7e42054f4aa5,mcintosh.broker,available,11.98,47.98,high,low,8,namecheap,,,27/09/2026 04:44
 2a30a53b-88f2-4c46-a3cc-31eee9d90429,calculators.broker,available,14.99,32.99,medium,low,11,name.com,,,18/09/2026 18:59
 ce03a4e3-c576-4023-a0ff-b2da5807d1c8,drives.broker,available,11.98,47.98,medium,low,6,namecheap,,,25/09/2026 17:24
-5514ccea-d04f-4fb6-9657-9e5444f0f715,arts.broker,premium,6500,6500,high,low,4,namecheap,,,23/09/2026 06:35
+5514ccea-d04f-4fb6-9657-9e5444f0f715,arts.broker,premium,6500,6500,high,low,4,namecheap,,,28/09/2026 04:29
 06cfc5d6-7d0e-4218-8998-c26b2fe6b334,ranger.broker,available,11.98,47.98,high,low,6,namecheap,,,27/09/2026 03:34
 95ace27a-dc85-4ede-affc-ed5292119fbd,arda.broker,available,11.98,47.98,high,low,4,namecheap,,,17/09/2026 10:27
 62d6c391-912c-4df8-997c-e0786b529ed3,dandified.broker,available,14.99,32.99,medium,low,9,name.com,,,13/08/2026 17:01
@@ -147,6 +149,7 @@ b26f5653-85d6-4240-97f8-17619c91c211,acetous.broker,available,11.98,47.98,medium
 59171fba-4110-4573-9f29-5b9614662abc,sunroof.broker,available,19.99,,high,low,7,name.com,,,
 82675044-3f08-4aca-a498-43765498bbb0,well.broker,available,11.98,47.98,high,low,4,namecheap,,,24/09/2026 22:39
 0be93a5c-da39-424f-b1c1-08bfedfdcc07,where.broker,available,19.99,,high,low,5,name.com,,,
+7fc01c5d-ca34-4896-a053-ea8b74b838db,caa.broker,available,28.2,28.2,high,low,3,cloudflare,,,28/09/2026 03:29
 f6cca767-0577-419c-9386-011d951d41ea,stays.broker,available,11.98,47.98,high,low,5,namecheap,,,24/09/2026 18:24
 54b5401a-c84b-42e2-b56e-7a394a3df4d4,orbit.broker,available,11.98,47.98,high,medium,5,namecheap,,,18/09/2026 16:49
 c8f201f1-11c1-4c0e-8634-316e9b52c370,primer.broker,available,19.99,,high,low,6,name.com,,,
@@ -181,6 +184,7 @@ c5b60e10-ce2c-4425-8781-137a467e699d,serrate.broker,available,11.98,47.98,medium
 9d860ded-6c53-4edf-854d-d8fdabb5ccc5,pabulum.broker,available,11.98,47.98,medium,low,7,namecheap,,,12/08/2026 18:49
 baf5cf96-c627-4c0d-8bd9-255d31ba982e,angler.broker,available,11.98,47.98,high,low,6,namecheap,,,18/09/2026 11:39
 98b36486-e36e-4602-b2f6-66165dc32e01,extempore.broker,available,11.98,47.98,medium,low,9,namecheap,,,
+d5d1a9bc-e386-43b5-98db-cc67124f6ec6,formation.broker,available,13.5,,high,low,9,unstoppable,,,28/09/2026 05:38
 a0a1d23a-b0ed-4b2a-98f9-c82eaf00d731,adorably.broker,available,11.98,47.98,medium,low,8,namecheap,,,13/09/2026 17:21
 1ecde721-dc9e-4e9c-8692-89ef4ced9aa0,prepaid.broker,available,11.98,47.98,high,low,7,namecheap,,,09/09/2026 00:39
 2fa2007d-9175-4da1-8622-3d09161550d1,cretaceous.broker,available,11.98,47.98,medium,low,10,namecheap,,,13/08/2026 06:22
@@ -218,7 +222,6 @@ a5ae3b09-cead-4771-abf4-9af4fcf4c2c4,urethral.broker,available,11.98,47.98,mediu
 0bd1713c-8a9c-498c-b943-d01fcc790a9d,corrupted.broker,available,14.99,32.99,medium,low,9,name.com,,,23/09/2026 23:59
 ea69efa9-3d8d-4faf-8ae8-e291f7c32207,thulium.broker,available,11.98,47.98,medium,low,7,namecheap,,,20/09/2026 23:37
 fbb02016-de60-4b1a-b19f-7f71b8eeb122,indefinite.broker,available,11.98,47.98,high,low,10,namecheap,,,25/09/2026 09:08
-9847fd5d-b26a-4545-a550-2a0c2d6183ae,research.broker,available,11.98,47.98,high,medium,8,namecheap,,,25/09/2026 09:00
 70aa7793-5b94-4505-a3cb-25335177b56c,gin.broker,premium,6500,6500,high,low,3,namecheap,,,24/09/2026 18:31
 35e39019-1028-4660-8d3a-42e421fd3172,taliban.broker,available,11.98,47.98,high,low,7,namecheap,,,27/09/2026 05:35
 16039858-1ebb-426b-bab8-d4dfad00ccfe,enormously.broker,available,11.98,47.98,medium,low,10,namecheap,,,14/09/2026 15:47
@@ -257,6 +260,7 @@ bc1c2af5-d4d5-4961-bfc9-e56e11860033,danish.broker,available,14.99,32.99,high,lo
 6807d82d-ef8f-4589-bf99-82eea2b4bee0,ninefold.broker,available,11.98,47.98,medium,low,8,namecheap,,,03/09/2026 17:31
 33d0fe10-edc8-424a-b77b-f74d4b1ee8e1,agrology.broker,available,11.98,47.98,medium,low,8,namecheap,,,17/09/2026 19:36
 04c4ac18-d0ec-468a-9a4d-59e535c705a3,drive.broker,available,11.98,47.98,high,medium,5,namecheap,,,24/09/2026 12:12
+9ae67ad6-c314-4cf6-9b19-952b3b4d1ced,ursula.broker,available,11.98,47.98,medium,low,6,namecheap,,,28/09/2026 03:44
 af65cfd5-6046-4051-b959-2272c07267e9,bolts.broker,available,11.98,47.98,medium,low,5,namecheap,,,18/09/2026 04:01
 9332f68c-2818-4dd9-95f4-ae41fad14092,antebellum.broker,available,11.98,47.98,medium,low,10,namecheap,,,
 ac4ef666-7457-47b8-8f80-ae7be367dd8d,crucify.broker,available,11.98,47.98,medium,low,7,namecheap,,,14/08/2026 21:17
@@ -306,6 +310,7 @@ d89eb54d-278e-4ec3-912c-54ac9dc69a40,loopy.broker,available,11.98,47.98,medium,l
 9f0119fd-181c-4234-927f-1a0e505ed078,faux.broker,available,11.98,47.98,high,low,4,namecheap,,,18/08/2026 00:12
 7bfe8b88-63f6-421e-abd2-1c87c569b283,adoration.broker,available,11.98,47.98,high,low,9,namecheap,,,17/09/2026 09:44
 2826251f-6b60-4e23-b3e4-5165c2e88b98,muzzy.broker,available,11.98,47.98,medium,low,5,namecheap,,,10/08/2026 16:24
+eb57a293-263e-4e16-9f21-f901f2d765f6,nmr.broker,available,8.24,29.35,high,low,3,porkbun,,,28/09/2026 06:29
 0be9c407-72bb-457e-8067-31aa8e863e1b,barbell.broker,available,11.98,47.98,high,low,7,namecheap,,,22/09/2026 04:49
 8e998dec-de8b-4b7e-adf3-6e6696e0ceb3,stating.broker,available,19.99,,high,low,7,name.com,,,
 5f51c747-e8a0-4ab9-b7c9-be25065d7bee,counterfeits.broker,available,11.98,47.98,low,low,12,namecheap,,,19/09/2026 21:40
@@ -325,7 +330,7 @@ b8f88eca-6843-4556-855c-a996a1425665,gloria.broker,available,11.98,47.98,high,lo
 70ba12ea-1299-49e3-be53-b1ca1bba31a7,afloat.broker,available,19.99,,high,low,6,name.com,,,
 e9ba68c2-ddc0-4621-83d1-6c6f6c5142cf,apothegm.broker,available,11.98,47.98,medium,low,8,namecheap,,,19/09/2026 17:10
 3f4227ac-c1f8-497c-a4b3-9425cb203d90,flowing.broker,available,11.98,47.98,high,low,7,namecheap,,,18/08/2026 09:11
-fc8c46bc-2709-405e-9161-1f08d87975c6,cloth.broker,available,19.99,,high,low,5,name.com,,,
+fc8c46bc-2709-405e-9161-1f08d87975c6,cloth.broker,available,28.2,28.2,high,low,5,cloudflare,,,28/09/2026 02:26
 b3c32ea5-344c-4ce8-929c-e18e017138c1,bettong.broker,available,11.98,47.98,medium,low,7,namecheap,,,23/09/2026 11:46
 6e769b76-1eaa-4f2f-b88d-3e27669cf2f7,looks.broker,available,19.99,,high,low,5,name.com,,,
 115d55ee-1bce-4818-943d-e10ad1a06f11,daring.broker,available,11.98,47.98,high,low,6,namecheap,,,07/08/2026 21:39
@@ -338,6 +343,7 @@ d7014d75-fc42-494b-af78-16008ec0dca2,humoral.broker,available,11.98,47.98,medium
 d6d79e5c-b274-498a-be9a-7653ce8a6b6c,asymmetry.broker,available,11.98,47.98,medium,low,9,namecheap,,,20/09/2026 18:39
 872c32b8-7302-4cdf-b343-6dd3ff8b1f23,hesitation.broker,available,11.98,47.98,high,low,10,namecheap,,,24/09/2026 16:28
 1fee6112-5ad7-4191-9f64-f73d8412687b,enlarged.broker,available,11.98,47.98,high,low,8,namecheap,,,22/09/2026 22:37
+8802e9f0-52c7-4376-9f3c-103d7a263bd8,fis.broker,available,8.24,29.35,high,low,3,porkbun,,,28/09/2026 03:41
 bde05944-65fd-4d90-88a0-4305f13f0099,unhinge.broker,available,11.98,47.98,medium,low,7,namecheap,,,24/09/2026 22:50
 29f10574-1380-4414-8595-30be42b9a9af,extravert.broker,available,11.98,47.98,high,low,9,namecheap,,,17/08/2026 19:28
 f8ca7c0a-2964-4f80-9c0e-5ab8483759f3,christi.broker,available,11.98,47.98,medium,low,7,namecheap,,,25/09/2026 21:26
@@ -355,6 +361,7 @@ f88a8c77-cd1a-4559-8445-9a6cb1a8b0ea,epidural.broker,available,11.98,47.98,high,
 6610360d-cf9a-47a5-bbe9-8c3544136036,crushed.broker,available,11.98,47.98,high,low,7,namecheap,,,13/08/2026 09:11
 9d4a801c-e88d-4182-b9fd-f75d48e8c48d,notation.broker,available,11.98,47.98,high,low,8,namecheap,,,19/09/2026 10:43
 db9b1727-cf54-4b59-aaca-42aafb07bdd7,wastewater.broker,available,11.98,47.98,medium,low,10,namecheap,,,15/08/2026 15:34
+b57bc538-a9a5-4b1a-9914-f14be94f9c6b,civilians.broker,available,10.55,29.18,medium,low,9,spaceship,,,28/09/2026 05:06
 b16ad10c-56d3-425c-995f-9df59b6a3da0,amelia.broker,available,11.98,47.98,high,low,6,namecheap,,,18/09/2026 18:15
 4aa8abbd-9efa-49cf-bf6d-35adf114a226,testis.broker,available,14.99,32.99,medium,low,6,name.com,,,21/09/2026 22:59
 0f059ed8-97a5-42b2-9129-17f0412465a3,axial.broker,available,11.98,47.98,high,low,5,namecheap,,,22/09/2026 15:33
@@ -364,6 +371,8 @@ d12160ad-afbd-425a-8623-d88d0118b186,massage.broker,available,19.99,,high,low,7,
 32335194-2b59-42c9-abc2-421d6bb35090,picky.broker,available,11.98,47.98,high,low,5,namecheap,,,18/08/2026 05:00
 15e9e47c-d33f-471d-b9f1-60a1fed859b6,burry.broker,available,11.98,47.98,medium,low,5,namecheap,,,08/08/2026 17:29
 eb4828fc-2b1a-4e44-8844-71ddae4835e9,delightful.broker,available,11.98,47.98,high,low,10,namecheap,,,24/09/2026 05:38
+f1844264-8064-485e-a190-51e757e6b7b2,spd.broker,available,13.5,,high,low,3,unstoppable,,,28/09/2026 03:51
+e43e2f42-e0b9-44fb-8120-5e3bab017c32,montana.broker,available,11.98,47.98,high,low,7,namecheap,,,28/09/2026 02:26
 8172f4ce-8dc7-4ad8-b972-10dea25be1a5,sleepless.broker,available,11.98,47.98,medium,low,9,namecheap,,,22/08/2026 07:24
 38ca495e-2d17-42b8-8585-50af6c02c262,stria.broker,available,11.98,47.98,medium,low,5,namecheap,,,22/09/2026 01:18
 1ee139ac-1a77-4863-b4d8-bd02be033b7f,speckled.broker,available,11.98,47.98,medium,low,8,namecheap,,,14/08/2026 16:34
@@ -383,7 +392,7 @@ fd4d9db7-76d0-4a70-83e7-80976d8bb10a,pedant.broker,available,11.98,47.98,medium,
 0cf0c382-79bb-4259-b596-d0fe027b276e,clot.broker,available,11.98,47.98,medium,low,4,namecheap,,,12/08/2026 13:36
 134c72c3-498a-45b4-9f8c-02fb148c16ce,baptism.broker,available,11.98,47.98,high,low,7,namecheap,,,22/09/2026 03:27
 da8433ce-8892-4ff2-b4d6-0cb54ac676af,mockery.broker,available,11.98,47.98,medium,low,7,namecheap,,,22/08/2026 12:39
-77b79acd-f53e-42fc-be21-e6309f35370f,school.broker,resell,,,high,medium,6,Dynadot Inc,20/11/2024 08:37,20/11/2026 08:37,26/09/2026 08:51
+77b79acd-f53e-42fc-be21-e6309f35370f,school.broker,resell,,,high,medium,6,Dynadot Inc,20/11/2024 08:37,20/11/2026 08:37,28/09/2026 04:04
 1e7f11b5-cfca-40f1-95a2-3a776884531a,fantasy.broker,available,11.98,47.98,high,low,7,namecheap,,,24/09/2026 16:36
 9f387fb6-1aa8-4e20-ac5b-58ccd8a07cee,jaggy.broker,available,11.98,47.98,medium,low,5,namecheap,,,17/08/2026 12:34
 cddd725f-b0ed-486e-a935-72e0e7f5c977,curl.broker,available,19.99,,high,low,4,name.com,,,
@@ -436,6 +445,7 @@ f743b076-cd69-445a-af13-6cc66abdc72b,factitious.broker,available,11.98,47.98,med
 292f4b8e-9eee-4afe-8ced-bf3eefd4ac0c,stroll.broker,available,11.98,47.98,high,low,6,namecheap,,,18/09/2026 16:59
 104cbefb-c822-4b12-813e-ca605cb3dec0,thenar.broker,available,11.98,47.98,medium,low,6,namecheap,,,11/09/2026 12:51
 4b904c6d-0942-4680-a625-023c23bb1108,biloxi.broker,available,11.98,47.98,high,low,6,namecheap,,,23/09/2026 16:52
+e3f3530c-b5e6-4a59-b938-3400ce46aff7,salvation.broker,available,13.5,,high,low,9,unstoppable,,,28/09/2026 03:00
 a1fdbae5-77e7-4409-b89b-dcfedf957623,consumption.broker,available,19.99,,high,low,11,name.com,,,
 d12bc67d-6b74-439e-9b61-41e438dd26bb,incumbent.broker,available,11.98,47.98,high,low,9,namecheap,,,22/08/2026 02:03
 49f5a16e-e635-4bfb-a3ca-65f590ad28c6,fighting.broker,available,11.98,47.98,high,low,8,namecheap,,,24/09/2026 18:04
@@ -456,7 +466,9 @@ ea6baeb7-9324-44b5-8123-78a52a7401b0,illegible.broker,available,11.98,47.98,medi
 464d7841-d87e-4a9d-b94e-6c3c18d13983,jument.broker,available,11.98,47.98,medium,low,6,namecheap,,,22/09/2026 21:27
 fb1ea2fe-21b5-4612-b0cc-482308c3b65c,promise.broker,available,19.99,,high,low,7,name.com,,,
 9d22ceef-df5d-492e-be32-915a27222544,fecund.broker,available,11.98,47.98,medium,low,6,namecheap,,,18/08/2026 00:34
+437416e0-23e6-4f64-86bf-4ac626b66583,melody.broker,available,13.5,,high,low,6,unstoppable,,,28/09/2026 02:24
 51cb6a4b-c7a2-4fec-a6d4-c2a46b5c9128,complete.broker,available,11.98,47.98,high,low,8,namecheap,,,19/09/2026 19:02
+0f16991f-94d7-47aa-be68-0b1e0e87b6e2,hokkaido.broker,available,10.55,29.18,high,low,8,spaceship,,,28/09/2026 05:40
 3b17e286-8b81-4206-b084-e5917dba1594,guyanese.broker,available,11.98,47.98,high,low,8,namecheap,,,20/08/2026 21:17
 247b4d85-6a34-47be-927e-9c8cdc777538,errors.broker,available,11.98,47.98,medium,low,6,namecheap,,,17/09/2026 17:09
 407b7f81-8d57-4dbe-b261-2a98fa481bbb,manx.broker,available,11.98,47.98,medium,low,4,namecheap,,,24/08/2026 15:32
@@ -478,7 +490,7 @@ e7f47c2a-af2e-4761-88d7-f913d306e19e,grandparent.broker,available,11.98,47.98,hi
 324decef-1c62-44d4-9d08-592785e0bc8d,ilxxx.broker,available,11.98,47.98,medium,low,5,namecheap,,,
 82a4e226-6ae9-48e4-9cf8-1ebac58765ae,otherwise.broker,available,19.99,,high,low,9,name.com,,,26/09/2026 00:41
 373c2b48-0a7e-4fd5-8108-134d0eccdc17,glove.broker,available,19.99,,high,low,5,name.com,,,
-ced1d1b9-2155-42ad-b828-850dab71cd58,tested.broker,available,19.99,,high,low,6,name.com,,,
+ced1d1b9-2155-42ad-b828-850dab71cd58,tested.broker,available,10.55,29.18,high,low,6,spaceship,,,28/09/2026 02:20
 774bd255-ae68-4108-af23-f69314798348,autocue.broker,available,11.98,47.98,medium,low,7,namecheap,,,21/09/2026 06:14
 6609a273-9140-468a-8c9c-41c5ad4c81ff,sable.broker,available,11.98,47.98,high,low,5,namecheap,,,14/08/2026 23:11
 891e72fc-5cf5-4cb2-924a-615dc3c498c2,justified.broker,available,11.98,47.98,high,low,9,namecheap,,,25/09/2026 12:26
@@ -566,6 +578,7 @@ e096b326-8089-40f9-ae0f-5f90e1c559e8,otoscope.broker,available,11.98,47.98,mediu
 1077db1a-ead1-4e0f-9b9e-f30a858e3a61,entertain.broker,available,11.98,47.98,high,low,9,namecheap,,,24/09/2026 02:50
 12a1e19d-2168-47d2-baf9-8715811523ab,bawl.broker,available,11.98,47.98,medium,low,4,namecheap,,,23/09/2026 06:25
 3cdba748-ad3a-4f8b-b9ae-c9256331a8d6,cheque.broker,available,11.98,47.98,high,low,6,namecheap,,,22/09/2026 02:22
+0c46a4cc-29e3-4e2d-8c48-8aa3b2b0251a,mack.broker,available,8.24,29.35,high,low,4,porkbun,,,28/09/2026 02:18
 360db5ef-3b83-4910-b008-58d237e6bd9f,monogenic.broker,available,11.98,47.98,medium,low,9,namecheap,,,25/08/2026 05:13
 ba89e561-2e01-472c-8f18-20e25fe352c5,facilitating.broker,available,19.99,,high,low,12,name.com,,,
 89794687-6967-4856-aa4e-d87113f086e1,arthropod.broker,available,11.98,47.98,medium,low,9,namecheap,,,20/09/2026 10:41
@@ -589,7 +602,7 @@ dad168a6-5c91-43a6-b5dd-a2ba69f4d76a,stradivari.broker,available,11.98,47.98,med
 6aa8a558-083a-4fcf-8944-487d6e5f617e,objectives.broker,available,11.98,47.98,medium,low,10,namecheap,,,17/09/2026 15:43
 f143aee8-0697-4b64-bd87-92cc24236477,cuddles.broker,available,11.98,47.98,medium,low,7,namecheap,,,21/09/2026 08:38
 d6735123-037c-474a-906f-b9d0cdb2e7c8,filming.broker,available,19.99,,high,low,7,name.com,,,
-f1fc60b8-180a-44e3-acd8-ecfbf4a476da,approaches.broker,available,11.98,47.98,high,low,10,namecheap,,,23/09/2026 20:05
+f1fc60b8-180a-44e3-acd8-ecfbf4a476da,approaches.broker,available,10.55,29.18,high,low,10,spaceship,,,28/09/2026 06:41
 4ad61b83-7b25-45b0-9d16-11b1d81d7821,trios.broker,available,11.98,47.98,medium,low,5,namecheap,,,19/09/2026 22:38
 cf06885d-ec7e-43a8-abaf-32c0b0d592c0,thiamin.broker,available,11.98,47.98,medium,low,7,namecheap,,,19/09/2026 05:39
 a839ec0a-704e-403e-abac-199299c56efe,sioux.broker,available,11.98,47.98,high,low,5,namecheap,,,10/09/2026 08:46
@@ -641,6 +654,7 @@ a5b61465-c2e7-4646-83fd-944ae34f87ca,annexa.broker,available,14.99,32.99,medium,
 db6fc007-efc1-426c-8e73-9304832f7416,potter.broker,available,10.55,29.18,high,low,6,spaceship,,,27/09/2026 12:23
 9eaa7cb6-697f-4317-b7e9-f5f20964f83d,baruch.broker,available,11.98,47.98,medium,low,6,namecheap,,,22/09/2026 09:33
 09736986-0661-473e-bfca-f322163e27d8,subacid.broker,available,11.98,47.98,medium,low,7,namecheap,,,10/09/2026 23:22
+c880f696-b1b2-4d29-b673-d370d31fcc5f,methods.broker,available,11.98,47.98,medium,low,7,namecheap,,,28/09/2026 04:33
 95d03892-f4d3-4485-956a-aa379f44c84e,decided.broker,available,11.98,47.98,high,low,7,namecheap,,,13/08/2026 21:20
 ce2a5459-3c6c-479a-94b8-4714d481206a,binnacle.broker,available,11.98,47.98,medium,low,8,namecheap,,,23/09/2026 17:36
 8c93ab33-18b4-4826-8798-8875cea2878d,ensure.broker,available,19.99,,high,low,6,name.com,,,
@@ -773,7 +787,7 @@ a5108b30-9e6e-4cc2-9984-832eabdc37c2,strike.broker,available,11.98,47.98,high,lo
 c526bb70-77b3-4334-8aea-4d0a0260aae3,autodidact.broker,available,11.98,47.98,high,low,10,namecheap,,,21/09/2026 06:15
 5312ec70-dd88-4b20-8598-9794f915c74c,declining.broker,available,19.99,,medium,low,9,name.com,,,
 b10c2082-8a9b-424c-bf0d-3650cb6893dc,consultant.broker,available,19.99,,high,low,10,name.com,,,
-e58e11dc-f193-4543-923a-3d464627d997,assessment.broker,available,11.98,47.98,high,low,10,namecheap,,,19/09/2026 22:08
+e58e11dc-f193-4543-923a-3d464627d997,assessment.broker,available,8.24,30.18,high,low,10,dynadot,,,28/09/2026 06:37
 55668fde-b0b9-46bd-a278-b054e5bc838c,anger.broker,available,19.99,,high,low,5,name.com,,,
 79f5f18c-8fe3-4adf-a1a6-bfb33aa5f8ad,dolomite.broker,available,11.98,47.98,medium,low,8,namecheap,,,23/09/2026 23:01
 3d04a00b-7e87-402c-a643-0d03c68cd06c,downscale.broker,available,11.98,47.98,medium,low,9,namecheap,,,14/08/2026 17:52
@@ -786,6 +800,7 @@ a99a396f-458f-4de4-ae21-81ed3fdfd8e4,bosh.broker,available,11.98,47.98,medium,lo
 8745a8ba-aa9a-4736-8f2a-d35330b5cd4c,toulouse.broker,available,11.98,47.98,high,low,8,namecheap,,,27/09/2026 05:47
 5a5ee500-4f0a-4639-bc2c-706ec65d275f,bearish.broker,available,11.98,47.98,medium,low,7,namecheap,,,09/08/2026 04:48
 a454b212-3b9a-47b5-acc2-a4675adec383,tied.broker,available,11.98,47.98,high,low,4,namecheap,,,22/08/2026 17:45
+ebd5d3b3-f4b0-454c-b03b-04e082b0e787,hodgson.broker,available,13.5,,medium,low,7,unstoppable,,,28/09/2026 04:09
 7c62ce18-0f8d-4325-80e5-c2a46a5cf282,washes.broker,available,11.98,47.98,medium,low,6,namecheap,,,20/09/2026 04:54
 a7be51c9-1a05-4d5d-a51f-fe147b0f4bef,acrobates.broker,available,11.98,47.98,medium,low,9,namecheap,,,17/09/2026 03:18
 5af8fff0-b5a8-4348-bf1b-cce0219c03e3,eyestrain.broker,available,11.98,47.98,medium,low,9,namecheap,,,20/09/2026 17:21
@@ -794,7 +809,7 @@ f3243101-7bfe-48cb-bb48-de0a1320b763,deficit.broker,available,19.99,,high,low,7,
 808b141c-6811-4e9a-90b0-bd4330b2a56d,crotchety.broker,available,11.98,47.98,medium,low,9,namecheap,,,13/08/2026 08:25
 57ee60b8-50c9-4e5f-85e6-6fc9852974ba,early.broker,available,11.98,47.98,high,low,5,namecheap,,,24/09/2026 12:57
 8017105a-3267-4522-88b8-7d958a8a220e,pathologic.broker,available,11.98,47.98,medium,low,10,namecheap,,,14/08/2026 10:11
-ff0fcf5e-0fbc-4a21-90ca-0c4e5406874f,customer.broker,available,19.99,,high,low,8,name.com,,,
+ff0fcf5e-0fbc-4a21-90ca-0c4e5406874f,customer.broker,available,13.5,,high,low,8,unstoppable,,,28/09/2026 03:45
 c101ada2-cb1f-4d26-9209-bbb341c1d822,appro.broker,available,11.98,47.98,medium,low,5,namecheap,,,19/09/2026 22:20
 4ee3952b-b4ba-45a8-96fe-9fbf46a8d51e,trollop.broker,available,11.98,47.98,medium,low,7,namecheap,,,17/09/2026 10:23
 b66bfcb9-9c5b-419b-9815-863497f32554,rossbach.broker,available,11.98,47.98,medium,low,8,namecheap,,,22/09/2026 15:54
@@ -812,6 +827,7 @@ b4e53ab8-ee0c-4a71-ad3e-31faa766eab2,piper.broker,available,19.99,,high,low,5,na
 1daaccee-7d74-4e0d-8cd2-66d705971e31,inconsistent.broker,available,19.99,,medium,low,12,name.com,,,
 f0c8887c-7c07-4a01-aab2-a1af0729b08e,messages.broker,available,14.99,32.99,high,low,8,name.com,,,18/09/2026 22:11
 1a018eff-349c-4404-b043-6081a277f589,literate.broker,available,11.98,47.98,high,low,8,namecheap,,,24/08/2026 07:26
+5e4abf38-689d-4eea-86ba-e27e28d008ad,seminar.broker,available,13.5,,high,low,7,unstoppable,,,28/09/2026 06:44
 e682c8e5-0a77-4cda-883c-3313ad327de5,dehydrate.broker,available,11.98,47.98,medium,low,9,namecheap,,,14/08/2026 03:38
 d5f1d8c5-277c-4c8e-95c3-6c3817fcf6fb,worshipful.broker,available,11.98,47.98,high,low,10,namecheap,,,
 5d6022a8-4fc7-4891-a741-4c1ce202be55,advisors.broker,available,11.98,47.98,high,low,8,namecheap,,,24/09/2026 14:22
@@ -842,6 +858,7 @@ c830b221-c0ca-4659-9865-2642cd16ab19,finicky.broker,available,11.98,47.98,medium
 5219d1ca-0ee7-4ce0-8347-9e0404d8c37f,markham.broker,available,10.55,29.18,high,low,7,spaceship,,,27/09/2026 20:59
 a56cdc40-7f76-41f8-b5ab-627ebed5ea80,gossip.broker,available,11.98,47.98,high,low,6,namecheap,,,24/09/2026 13:15
 fcebe18e-8acd-4f0c-a813-e3f3e5ffd0a7,deadly.broker,available,11.98,47.98,medium,low,6,namecheap,,,22/09/2026 16:43
+05d89de7-ad0a-4e27-a1c2-2b186d56e7c5,shade.broker,available,11.98,47.98,high,low,5,namecheap,,,28/09/2026 02:00
 5ba98686-cd03-469a-a49b-8d9d29643d37,exhale.broker,available,19.99,,high,low,6,name.com,,,
 743e923d-0793-4c0e-a860-6f30ede0044c,mauldin.broker,available,11.98,47.98,medium,low,7,namecheap,,,23/09/2026 16:01
 83fbee9c-186e-4f60-a2d1-2dfb83835e28,grasp.broker,available,11.98,47.98,high,low,5,namecheap,,,19/09/2026 22:13
@@ -869,6 +886,7 @@ ac67e72b-3a6b-448a-921d-ab1d5686496e,utmost.broker,available,11.98,47.98,high,lo
 86aa9c2f-13cb-4cd6-9bab-0bebc06445b8,blewit.broker,available,11.98,47.98,low,low,7,namecheap,,,17/09/2026 21:32
 132f6747-1024-4fb0-9d58-f6aca778660e,flies.broker,available,11.98,47.98,high,low,5,namecheap,,,25/09/2026 06:05
 0708c518-22d6-4185-8adb-ecd3bfefc033,amok.broker,available,11.98,47.98,high,low,4,namecheap,,,
+e698f76f-6f77-46c8-9ed8-8702964da808,satisfaction.broker,available,10.55,29.18,high,low,12,spaceship,,,28/09/2026 04:23
 eb7279a4-673c-4bc9-b135-16f6d515d69b,senescent.broker,available,11.98,47.98,medium,low,9,namecheap,,,
 cffccb7b-df72-4d85-a7fa-76ff0a7008ac,palish.broker,available,11.98,47.98,medium,low,6,namecheap,,,04/09/2026 23:41
 964c762e-c463-40ad-b860-7b24c6030afd,uncoiled.broker,available,11.98,47.98,medium,low,8,namecheap,,,12/09/2026 05:44
@@ -876,7 +894,7 @@ cffccb7b-df72-4d85-a7fa-76ff0a7008ac,palish.broker,available,11.98,47.98,medium,
 690cd35c-0a61-4dd2-bc8e-980284e9b6e1,lovingly.broker,available,11.98,47.98,high,low,8,namecheap,,,14/09/2026 19:14
 8293ff06-8d17-48e8-9983-dc816b0463e8,arcsecond.broker,available,11.98,47.98,medium,low,9,namecheap,,,20/09/2026 02:41
 fd6954fc-70bd-4033-b0b8-0490952da618,cory.broker,available,10.55,29.18,high,low,4,spaceship,,,27/09/2026 18:41
-7c251903-0921-451a-bf20-4f187140da99,cooking.broker,available,11.98,47.98,high,low,7,namecheap,,,08/09/2026 08:19
+7c251903-0921-451a-bf20-4f187140da99,cooking.broker,available,13.5,47.98,high,low,7,unstoppable,,,28/09/2026 06:07
 6621e5a0-b260-4899-aec1-6dea32af3045,swastika.broker,available,19.99,,medium,low,8,name.com,,,
 88876310-5b07-421c-93c7-58ffafbf2680,viscous.broker,available,11.98,47.98,high,low,7,namecheap,,,20/08/2026 15:25
 f2ee2f66-0f8b-4955-aebf-66a434126cec,thankless.broker,available,11.98,47.98,medium,low,9,namecheap,,,11/09/2026 12:28
@@ -939,7 +957,7 @@ e26d6917-f1be-47e2-9f43-ab763215b525,mogadishu.broker,available,11.98,47.98,medi
 1a05ce89-3e2c-4042-acae-d58f603b25fd,cyclosis.broker,available,11.98,47.98,medium,low,8,namecheap,,,10/09/2026 22:24
 65df1fb1-5457-4542-838f-6d496dd2e3ce,realty.broker,resell,,,high,low,6,Epik LLC,22/04/2021 08:31,22/04/2027 08:31,26/09/2026 08:31
 7285dc2b-e582-46ad-87bc-c883f908b5fe,plosive.broker,available,11.98,47.98,medium,low,7,namecheap,,,04/09/2026 00:16
-dc538455-f3ec-413d-9466-80d6f6c96817,operation.broker,available,14.99,32.99,high,low,9,name.com,,,25/09/2026 04:49
+dc538455-f3ec-413d-9466-80d6f6c96817,operation.broker,available,13.5,32.99,high,low,9,unstoppable,,,28/09/2026 02:52
 c2e1f8b8-3095-41c3-887d-1cc1b340e153,fright.broker,available,11.98,47.98,medium,low,6,namecheap,,,17/09/2026 14:50
 09972521-f93d-4a9b-b8b7-d985e20883d3,garage.broker,available,19.99,,high,low,6,name.com,,,
 c5b57580-b4a5-4251-aec9-9abb329163a3,balladeer.broker,available,11.98,47.98,medium,low,9,namecheap,,,21/09/2026 22:45
@@ -957,6 +975,7 @@ fc9fff27-785e-449a-b9ab-deafb9b1cc52,duodenal.broker,available,11.98,47.98,mediu
 34ad3a34-7f8d-4a61-9369-9cc3b19993e1,kleenex.broker,available,19.99,,high,low,7,name.com,,,
 d3367370-ab98-4904-a7ee-0c9a483f3efe,harmonic.broker,available,11.98,47.98,high,low,8,namecheap,,,12/08/2026 22:46
 e9f89439-6a11-4b0b-a96a-a2bd7fbf20c9,dissimilar.broker,available,11.98,47.98,medium,low,10,namecheap,,,14/08/2026 12:48
+4aaec46c-e8cc-4feb-aee4-db413ccccbd8,keene.broker,available,28.2,28.2,high,low,5,cloudflare,,,28/09/2026 03:36
 f3e09b12-2ea5-4b2e-8d55-3af3287d9d79,cannoneer.broker,available,11.98,47.98,medium,low,9,namecheap,,,20/09/2026 11:44
 0a92eea0-4feb-4d91-93e5-17527deea978,approach.broker,available,11.98,47.98,high,low,8,namecheap,,,06/08/2026 08:44
 05d1718f-1ebb-4269-9702-778f166e5913,maltese.broker,available,11.98,47.98,high,low,7,namecheap,,,24/08/2026 14:15
@@ -972,6 +991,7 @@ ec381fb6-5e6d-4b0e-a668-46e5f3ad1e8b,tenormin.broker,available,11.98,47.98,mediu
 d7857924-2634-4b4e-9604-eff03546a0ed,annelid.broker,available,11.98,47.98,medium,low,7,namecheap,,,
 f7fd11a4-930e-49df-be32-4fe6928a5662,cupping.broker,available,11.98,47.98,high,low,7,namecheap,,,24/09/2026 20:18
 951a3634-7a47-4277-aa8f-67f3e6b283e2,aural.broker,available,11.98,47.98,high,low,5,namecheap,,,22/09/2026 12:49
+c25bd366-d924-4a69-bd0b-248295e50f36,sal.broker,available,8.24,29.35,high,low,3,porkbun,,,28/09/2026 03:21
 99ac71e8-5f8e-4ecf-8ef5-e34940bf88e1,ohio.broker,resell,,,high,low,4,Epik LLC,22/09/2022 00:35,22/09/2027 00:35,26/09/2026 07:52
 4197ffd8-bcd9-482b-a56c-bcb66d9edd6c,amnesic.broker,available,11.98,47.98,medium,low,7,namecheap,,,
 05929222-7dd6-4edc-af03-426873c247a3,herbs.broker,available,11.98,47.98,high,low,5,namecheap,,,17/09/2026 01:23
@@ -979,23 +999,3 @@ f8fbedda-438f-4a5f-8a20-0d4d2c64f7e6,ironlike.broker,available,11.98,47.98,mediu
 b89bbf92-09c1-4aa0-8785-b4a59120cab2,jailed.broker,available,11.98,47.98,medium,low,6,namecheap,,,19/09/2026 04:16
 819b3537-774a-4ac5-9337-121b4ed381f8,silvan.broker,available,11.98,47.98,medium,low,6,namecheap,,,19/09/2026 11:29
 6746cfd0-b2ba-4895-8184-cd19eb49764e,pour.broker,available,19.99,,high,low,4,name.com,,,
-a16d289f-45f1-4235-b40a-6971d9d3fd9a,banging.broker,available,11.98,47.98,high,low,7,namecheap,,,08/08/2026 13:03
-5fd34eb3-f45b-429b-869c-2f3d76f4adfa,furry.broker,available,11.98,47.98,high,medium,5,namecheap,,,18/08/2026 18:53
-0c745258-3234-4c4a-8ef4-f9112fb4d430,axonal.broker,available,11.98,47.98,medium,low,6,namecheap,,,08/08/2026 02:01
-67f0bb3e-bd8b-45bc-92e0-feab6d4de4c3,condolence.broker,available,19.99,,high,low,10,name.com,,,
-317d6a77-7f5c-4e63-ade6-2fe20279920b,ellipse.broker,available,11.98,47.98,high,low,7,namecheap,,,04/09/2026 19:52
-2b23b01b-8f3e-41ba-986e-fbcb894db2aa,barter.broker,available,11.98,47.98,high,low,6,namecheap,,,24/09/2026 08:25
-b7f13556-09ae-408e-b5b5-e6e45bcfa6bc,irenic.broker,available,11.98,47.98,high,low,6,namecheap,,,22/08/2026 09:48
-9e7069a3-f899-4208-ba39-f9a1aeb7068b,existent.broker,available,11.98,47.98,medium,low,8,namecheap,,,
-7c56464c-717a-4e13-b17d-6590588f5c5d,salon.broker,available,11.98,47.98,high,low,5,namecheap,,,22/09/2026 22:23
-0ff119ed-780f-4053-8614-e1bfc90ceeda,riders.broker,available,19.99,,high,low,6,name.com,,,20/09/2026 01:20
-1194f947-dae7-4358-a149-e29dea147465,fourscore.broker,available,11.98,47.98,medium,low,9,namecheap,,,
-bbebd0e6-80d3-4b6c-9263-2ca2c4dd8533,tate.broker,available,11.98,47.98,high,low,4,namecheap,,,18/09/2026 10:50
-8646d151-afb1-41ad-915e-32cf801863fd,gullible.broker,available,11.98,47.98,medium,low,8,namecheap,,,18/08/2026 07:40
-52a7bc52-1ab1-4b6a-91d8-b04348d8cc17,delivered.broker,available,11.98,47.98,medium,low,9,namecheap,,,25/09/2026 18:04
-e7fa128c-69c9-4401-ab43-86ab44b2b151,unbuttoned.broker,available,11.98,47.98,medium,low,10,namecheap,,,12/09/2026 04:42
-830341fc-7770-4203-b34f-27ae5b60f627,swimsuits.broker,available,11.98,47.98,medium,low,9,namecheap,,,18/09/2026 15:44
-12a352af-485e-43fe-abe7-ba5faafb75d7,fatefully.broker,available,11.98,47.98,medium,low,9,namecheap,,,14/09/2026 17:53
-4feb69ac-ec02-415d-9ddd-1b1365f29a96,singer.broker,available,11.98,47.98,high,low,6,namecheap,,,25/09/2026 23:13
-de77a898-ad2f-4855-895e-14fd4b979612,pained.broker,available,11.98,47.98,medium,low,6,namecheap,,,04/09/2026 01:26
-9d34344f-6cf8-4cac-b8dc-657290c5a941,gutsy.broker,available,11.98,47.98,high,low,5,namecheap,,,20/08/2026 21:14
